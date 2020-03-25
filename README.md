@@ -24,3 +24,4 @@ This project demonstrates use of React.js and Node.js server to display tweet st
  - **Highcharts Maps** - Heatmap
  - **React-Redux** - For managing state
  - **Socket.io** - For streaming tweets from server
+ - **[d3-cloud](https://github.com/jasondavies/d3-cloud)** - Tag cloud
